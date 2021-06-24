@@ -1,6 +1,6 @@
 # multiaxis-Deltarobot-2017
 
-(소리가 좀 큽니다! 볼륨 주의)<br>
+(볼륨 주의)<br>
 
 
 https://user-images.githubusercontent.com/42488309/123304269-b925cd00-d559-11eb-97af-dd3faa57a1f4.mp4
